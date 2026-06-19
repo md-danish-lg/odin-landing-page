@@ -119,3 +119,71 @@ nav ul li a{
     border-radius: 8px;
     border: 2px solid #3B82F6;
 }
+
+.testimonial{
+    padding: 3rem 0 3rem 0;
+    background-color: #E5E7EB;
+}
+.quote{
+
+    
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 0;
+   
+    color: #1F2937;
+}
+
+.quote h1{
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+}
+.quote p{
+    text-align: right;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.cta{   
+    padding: 3rem 0 3rem 0;
+    background-color: white;
+}
+.cta-box{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #3B82F6;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.text-box{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+
+}
+.text-box button{
+    padding: 0.75rem 1.5rem;
+    font-size: 18px;
+    background-color:#3B82F6 ;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+footer p{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+
+}
